@@ -1,0 +1,16 @@
+uuid: fb4b5387-3a0c-433b-963f-3da7e2681e2f
+langcode: en
+status: true
+dependencies:
+  enforced:
+    module:
+      - recipes_magazin
+_core:
+  default_config_hash: AE1U4nv0sx769UUoD6v3xDoUwzYKLsquFySsjkRr2vI
+name: Recipe
+type: recipe
+description: 'Recipe content type for a recipe magazine demo.'
+help: 'Use the recipe content type as an example of structured content in Drupal.'
+new_revision: true
+preview_mode: 1
+display_submitted: true

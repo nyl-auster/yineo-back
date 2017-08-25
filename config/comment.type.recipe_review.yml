@@ -1,0 +1,13 @@
+uuid: 3a28c96d-5ba5-4790-8e94-0d79a6069979
+langcode: en
+status: true
+dependencies:
+  enforced:
+    module:
+      - recipes_magazin
+_core:
+  default_config_hash: WjEoeNB_UhPPOqEOWSAhtKzz5aXwecUt6sSIgTg5XM4
+id: recipe_review
+label: 'Recipe review'
+target_entity_type_id: node
+description: ''

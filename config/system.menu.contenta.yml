@@ -1,0 +1,10 @@
+uuid: 73aaf9c9-acd8-4f21-a954-b7f00bd27060
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 6Uq78A7upKLy4THcaAzXP3v08vQxFVU3BIlcmTJ4RDY
+id: contenta
+label: Contenta
+description: 'Contenta CMS menu'
+locked: false
